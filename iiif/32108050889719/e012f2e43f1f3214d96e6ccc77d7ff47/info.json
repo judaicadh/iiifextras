@@ -1,0 +1,32 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://judaicadh.github.io/iiifextras/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 4721,
+  "height": 5862,
+  "sizes": [
+    {
+      "width": 242,
+      "height": 300
+    },
+    {
+      "width": 1611,
+      "height": 2000
+    }
+  ]
+}

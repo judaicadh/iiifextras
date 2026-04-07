@@ -1,0 +1,30 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://judaicadh.github.io/iiifextras/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "My IIIF Collection"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 240
+        }
+    ],
+    "items": [
+        {
+            "id": "https://judaicadh.github.io/iiifextras/32108050889719/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "Letter from Mordecai Sheftall to Rev. Isaac Leeser"
+                ]
+            }
+        }
+    ]
+}
