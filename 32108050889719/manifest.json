@@ -107,7 +107,7 @@
                                     {
                                         "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "level0"
                                     }
                                 ]
                             }
@@ -155,7 +155,7 @@
                                     {
                                         "id": "https://judaicadh.github.io/iiifextras/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "level0"
                                     }
                                 ]
                             }
@@ -203,7 +203,7 @@
                                     {
                                         "id": "https://judaicadh.github.io/iiifextras/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "level0"
                                     }
                                 ]
                             }
@@ -251,7 +251,7 @@
                                     {
                                         "id": "https://judaicadh.github.io/iiifextras/32108050889719/68b77093c3a2424210cf228a15973b60",
                                         "type": "ImageService3",
-                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                        "profile": "level0"
                                     }
                                 ]
                             }
