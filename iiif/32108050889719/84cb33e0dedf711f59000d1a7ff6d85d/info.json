@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/3/context.json",
-  "id": "https://judaicadh.github.io/iiifextras/32108050889719/68b77093c3a2424210cf228a15973b60",
+  "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d",
   "type": "ImageService3",
   "profile": "level0",
   "protocol": "http://iiif.io/api/image",
@@ -17,15 +17,15 @@
       "width": 256
     }
   ],
-  "width": 4737,
-  "height": 5886,
+  "width": 4699,
+  "height": 5876,
   "sizes": [
     {
-      "width": 241,
+      "width": 240,
       "height": 300
     },
     {
-      "width": 1610,
+      "width": 1599,
       "height": 2000
     }
   ]

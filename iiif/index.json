@@ -1,15 +1,15 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://judaicadh.github.io/iiifextras/index.json",
+    "id": "https://judaicadh.github.io/iiifextras/iiif/index.json",
     "type": "Collection",
     "label": {
         "none": [
-            "My IIIF Collection"
+            "Leeser Letters to Mordecai"
         ]
     },
     "thumbnail": [
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/manifest.json",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [

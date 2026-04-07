@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://judaicadh.github.io/iiifextras/32108050889719/manifest.json",
+    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/manifest.json",
     "type": "Manifest",
     "label": {
         "none": [
@@ -60,7 +60,7 @@
     "rights": "https://creativecommons.org/licenses/by/4.0/",
     "thumbnail": [
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 300,
@@ -69,7 +69,7 @@
     ],
     "items": [
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/1",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/1",
             "type": "Canvas",
             "height": 5835,
             "width": 4660,
@@ -80,7 +80,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/b451c65266a6693a571a41f3916b0dad/full/240,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -89,23 +89,23 @@
             ],
             "items": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/1/annopage-1",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/1/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/1/annopage-1/anno-1",
+                            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/1/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/1",
+                            "target": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/1",
                             "body": {
-                                "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad/full/1597,2000/0/default.jpg",
+                                "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/b451c65266a6693a571a41f3916b0dad/full/1597,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1597,
                                 "service": [
                                     {
-                                        "id": "https://judaicadh.github.io/iiifextras/32108050889719/b451c65266a6693a571a41f3916b0dad",
+                                        "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/b451c65266a6693a571a41f3916b0dad",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -117,7 +117,7 @@
             ]
         },
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/2",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/2",
             "type": "Canvas",
             "height": 5862,
             "width": 4721,
@@ -128,7 +128,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47/full/242,300/0/default.jpg",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47/full/242,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -137,23 +137,23 @@
             ],
             "items": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/2/annopage-1",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/2/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/2/annopage-1/anno-1",
+                            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/2/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/2",
+                            "target": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/2",
                             "body": {
-                                "id": "https://judaicadh.github.io/iiifextras/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47/full/1611,2000/0/default.jpg",
+                                "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47/full/1611,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1611,
                                 "service": [
                                     {
-                                        "id": "https://judaicadh.github.io/iiifextras/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47",
+                                        "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/e012f2e43f1f3214d96e6ccc77d7ff47",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -165,7 +165,7 @@
             ]
         },
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/3",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/3",
             "type": "Canvas",
             "height": 5876,
             "width": 4699,
@@ -176,7 +176,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d/full/240,300/0/default.jpg",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d/full/240,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -185,23 +185,23 @@
             ],
             "items": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/3/annopage-1",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/3/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/3/annopage-1/anno-1",
+                            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/3/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/3",
+                            "target": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/3",
                             "body": {
-                                "id": "https://judaicadh.github.io/iiifextras/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d/full/1599,2000/0/default.jpg",
+                                "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d/full/1599,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1599,
                                 "service": [
                                     {
-                                        "id": "https://judaicadh.github.io/iiifextras/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d",
+                                        "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/84cb33e0dedf711f59000d1a7ff6d85d",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
@@ -213,7 +213,7 @@
             ]
         },
         {
-            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/4",
+            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/4",
             "type": "Canvas",
             "height": 5886,
             "width": 4737,
@@ -224,7 +224,7 @@
             },
             "thumbnail": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/68b77093c3a2424210cf228a15973b60/full/241,300/0/default.jpg",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/68b77093c3a2424210cf228a15973b60/full/241,300/0/default.jpg",
                     "type": "Image",
                     "format": "image/jpeg",
                     "height": 300,
@@ -233,23 +233,23 @@
             ],
             "items": [
                 {
-                    "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/4/annopage-1",
+                    "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/4/annopage-1",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/4/annopage-1/anno-1",
+                            "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/4/annopage-1/anno-1",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "https://judaicadh.github.io/iiifextras/32108050889719/canvas/4",
+                            "target": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/canvas/4",
                             "body": {
-                                "id": "https://judaicadh.github.io/iiifextras/32108050889719/68b77093c3a2424210cf228a15973b60/full/1610,2000/0/default.jpg",
+                                "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/68b77093c3a2424210cf228a15973b60/full/1610,2000/0/default.jpg",
                                 "type": "Image",
                                 "format": "image/jpeg",
                                 "height": 2000,
                                 "width": 1610,
                                 "service": [
                                     {
-                                        "id": "https://judaicadh.github.io/iiifextras/32108050889719/68b77093c3a2424210cf228a15973b60",
+                                        "id": "https://judaicadh.github.io/iiifextras/iiif/32108050889719/68b77093c3a2424210cf228a15973b60",
                                         "type": "ImageService3",
                                         "profile": "http://iiif.io/api/image/3/level0.json"
                                     }
